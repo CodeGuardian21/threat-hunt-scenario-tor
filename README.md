@@ -1,4 +1,3 @@
-<img width="987" height="197" alt="02" src="https://github.com/user-attachments/assets/aa9e1f6e-bb14-4c06-9abf-d6fc6bb1496f" />
 # Official [Cyber Range](http://joshmadakor.tech/cyber-range) Project
 
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
