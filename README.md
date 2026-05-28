@@ -4,7 +4,7 @@
 
 # Threat Hunt Report: Unauthorized TOR Usage
 
-- [Scenario Creation](https://github.com/CodeGuardian21/threat-hunting-scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
+- [Scenario Creation](https://github.com/CodeGuardian21/threat-hunt-scenario-tor/blob/main/threat-hunt-scenario-tor-event-creation.md)
 
 ## Platforms and Languages Leveraged
 
