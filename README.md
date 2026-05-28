@@ -1,3 +1,4 @@
+<img width="987" height="197" alt="02" src="https://github.com/user-attachments/assets/aa9e1f6e-bb14-4c06-9abf-d6fc6bb1496f" />
 # Official [Cyber Range](http://joshmadakor.tech/cyber-range) Project
 
 <img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
@@ -57,7 +58,8 @@ DeviceProcessEvents
 
 ```
 
-<img width="1298" height="265" alt="image" src="https://github.com/user-attachments/assets/7b8b52dd-8829-451d-b7f1-4d7193181817" />
+<img width="987" height="197" alt="02" src="https://github.com/user-attachments/assets/b92a4edc-d6e0-4950-8acf-d923e4361b32" />
+
 
 ---
 
@@ -75,7 +77,8 @@ DeviceProcessEvents
 
 ```
 
-<img width="1313" height="24" alt="image" src="https://github.com/user-attachments/assets/a8fce088-6317-4ad5-910a-1f7f6a2e9852" />
+<img width="985" height="17" alt="03" src="https://github.com/user-attachments/assets/f406b5d8-e726-4654-a439-7289a36a3a3f" />
+
 
 ---
 
@@ -95,7 +98,8 @@ DeviceFileEvents
 
 ```
 
-<img width="1106" height="361" alt="image" src="https://github.com/user-attachments/assets/e094a44a-1094-470e-9118-77835fc2dbda" />
+<img width="986" height="320" alt="04" src="https://github.com/user-attachments/assets/6e1dafc1-6c15-4ede-89db-bcb696fbb940" />
+
 
 ---
 
@@ -116,7 +120,8 @@ DeviceNetworkEvents
 
 ```
 
-<img width="1300" height="165" alt="image" src="https://github.com/user-attachments/assets/4dd4a91e-520a-4f12-aa78-4c8c2a348cb0" />
+<img width="987" height="121" alt="05" src="https://github.com/user-attachments/assets/bdca86c9-eded-4eb2-b367-ce6d3c5f2307" />
+
 
 ---
 
