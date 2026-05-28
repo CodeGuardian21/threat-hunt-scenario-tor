@@ -124,7 +124,7 @@ DeviceNetworkEvents
 
 | Time (EST)  | Action Type       | Event Details                                                                                           |
 | ----------- | ----------------- | ------------------------------------------------------------------------------------------------------- |
-| 10:22:38 PM | ProcessCreated    | User "smith" launched tor-browser-windows-x86_64-portable-15.0.9.exe with a silent flag (/S)            |
+| 10:22:38 PM | ProcessCreated    | User "one" launched tor-browser-windows-x86_64-portable-15.0.9.exe with a silent flag (/S)            |
 | 10:22:50 PM | FileCreated       | Tor browser components (tor.exe, tor.txt, Torbutton.txt, Tor-Launcher.txt) were created in C:\Browser\  |
 | 10:22:55 PM | FileCreated       | Tor Browser.lnk was created                                                                             |
 | 10:23:03 PM | ProcessCreated    | firefox.exe (Tor) was initialized                                                                       |
